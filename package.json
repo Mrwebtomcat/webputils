@@ -1,0 +1,39 @@
+{
+  "_from": "ycwebp@*",
+  "_id": "ycwebp@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-8XPZGF92CdzCZZ15opnlV+IPKVg=",
+  "_location": "/ycwebp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ycwebp@*",
+    "name": "ycwebp",
+    "escapedName": "ycwebp",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/yc-webp-webpack-plugin"
+  ],
+  "_resolved": "https://npm.yc345.tv/ycwebp/-/ycwebp-1.1.2.tgz",
+  "_shasum": "f173d9185f7609dcc2659d79a299e557e20f2958",
+  "_spec": "ycwebp@*",
+  "_where": "/Users/qi/Documents/projects/Middle_School_H5/node_modules/yc-webp-webpack-plugin",
+  "author": {
+    "name": "data"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "glob": "^7.1.6",
+    "shelljs": "^0.8.4"
+  },
+  "deprecated": false,
+  "description": "图片生成工具",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ycwebp",
+  "version": "1.0.0"
+}
