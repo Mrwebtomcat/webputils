@@ -1,5 +1,5 @@
 # ycwebp
-洋葱学院Png/Jpg转WebP格式化工具
+Png/Jpg转WebP格式化工具
 # Installation
 ```
 npm install ycwebp
